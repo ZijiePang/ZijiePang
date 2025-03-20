@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-## 👋 Hi, I'm Zijie (Mira) Pang! 
-## 💡 I’m a **Master’s student in Computer Science at UChicago** with a background in **investment and software engineering**. 
-## 📚 Passionate about **full-stack development, AI, and cloud computing**.  
+ 👋 Hi, I'm Zijie (Mira) Pang! 
+ 💡 I’m a **Master’s student in Computer Science at UChicago** with a background in **investment and software engineering**. 
+ 📚 Passionate about **full-stack development, AI, and cloud computing**.  
 
 ## 📫 Socials:
 - 🌐 [My Website](https://main.d1rnwl8j20zkew.amplifyapp.com/about/)  
