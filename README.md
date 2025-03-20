@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-- 👋 Hi, I'm Zijie (Mira) Pang! 
+# 👋 Hi, I'm Zijie (Mira) Pang! 
 - 💡 I’m a **Master’s student in Computer Science at UChicago** with a background in **investment and software engineering**. 
 - 📚 Passionate about **full-stack development, AI, and cloud computing**.  
 
-## 📫 Socials:
+# 📫 Socials:
 - 🌐 [My Website](https://main.d1rnwl8j20zkew.amplifyapp.com/about/)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/zijie-pang/)  
 
