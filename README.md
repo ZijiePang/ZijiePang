@@ -27,21 +27,14 @@ Here are some ideas to get you started:
 - **Tech Stack:** MongoDB, Express, React, Node.js, JWT, Google OAuth, Redux, Tailwind CSS, Firebase  
 - **Highlights:** Created a full-stack blog app with JWT, OAuth authentication, and MongoDB.  
 
----
-
-### 🚀 [AIMIGO](https://aimigo-go.com/) – AI Tool Recommendation Startup  
-🔒 *Startup*  
-- **Tech Stack:** Next.js, Next UI, Framer Motion, Tailwind  
-- **Highlights:** Built the front-end while contributing to product design and scalability.  
-
----
-
 ### 🚀 Cloud-Based Genomics Annotation Service  
 🔒 *Private Repo*  
 - **Tech Stack:** Python, Flask, AWS Boto3, DynamoDB, SQS, S3, Glacier, EC2, ELB, Stripe  
 - **Highlights:** Developed a scalable genomics annotation SaaS with automated data management and cost-efficient cloud storage.  
 
----
+### 🚀 [AIMIGO](https://aimigo-go.com/) – AI Tool Recommendation Startup  
+🔒 *Startup*  
+- **Highlights:** Built the front-end while contributing to product design and scalability.  
 
 ### 🚀 [AutismGPT](https://www.autismgpt.ai/) - AI-Powered Virtual Avatar Chatbot
 🔒 *Startup*  
